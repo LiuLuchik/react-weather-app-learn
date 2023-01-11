@@ -12,6 +12,7 @@ root.render(
   <StrictMode>
     <div className="App">
       <Weather />
+      <a href="https://github.com/LiuLuchik/react-weather-app-learn">Git</a>
     </div>
   </StrictMode>
 );
